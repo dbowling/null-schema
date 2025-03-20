@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/dbowling/null-schema/refs/heads/main/null.schema.json"
+  "$id": "https://raw.githubusercontent.com/dbowling/null-schema/refs/heads/main/null.schema.json",
   "title": "Null Schema",
   "description": "A schema that matches any valid YAML file.",
   "type": ["object", "array", "string", "number", "boolean", "null"],
